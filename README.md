@@ -22,5 +22,3 @@ system using Capacitive Soil Moisture Sensing.
 - Estimated the capital investment, economics and simple payback period of the project.
 
 - The report can be found <a href="https://github.com/rohankalbag/Energy-Efficient-Smart-Farm/blob/main/EN%20110%20Course%20Project%20Report.pdf">here</a> 
-
-- Calculated its performance parameters and First Figure of Merit F1
