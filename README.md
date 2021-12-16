@@ -1,4 +1,4 @@
-# Energy-Efficient-Smart-Farm
+# Design of an automated energy efficient irrigation system for a hypothetical farm
 
 Course Project done in Department Introductory Course EN 110 - Spring Semester 2020
 
